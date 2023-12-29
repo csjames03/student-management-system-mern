@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Dependencies installed via npm
+package-lock.json
+
+# Jest coverage
+coverage/
+
+# Directory for compiled binaries
+dist/
+
+# Local development files
+.env.local
+
+# IDE (e.g., WebStorm) project files
+.idea/
+
+# macOS
+*.DS_Store
+
+# Node.js generated files
+__node_modules/
+__mocks__/
+__tests__/
